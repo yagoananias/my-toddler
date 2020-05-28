@@ -12,7 +12,7 @@ export default function Header() {
     <header id="main-header">
       <div className="header-content">
         <Link to="/">
-          <img src={ logo } alt="myToddler" />
+          <img src={ logo } alt="my Toddler" />
         </Link>
         <Link to="/new">
           <img src={ baby } alt="Enviar publicação" />
